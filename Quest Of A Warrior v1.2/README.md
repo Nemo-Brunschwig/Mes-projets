@@ -24,7 +24,7 @@ Il y a :
 
 [Blé] : ![alt_text](https://github.com/Nemo-Brunschwig/Mes-projets/blob/master/Quest%20Of%20A%20Warrior%20v1.2/sprites/sBle/299bfedb-78e5-4cac-b77a-09022233dcb8.png)
 
-[Jeu des bâteaux]: ../Jeu de bateaux
+[Jeu des bâteaux]: ./Jeu de bateaux
 [joueur]: ./sprites/sPerso
 [outil]: ./sprites/sOutil
 [Pomme]: ./sprites/sApple
