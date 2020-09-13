@@ -23,6 +23,6 @@ Il y a :
 [rooms]: ./rooms
 [sprites]: ./sprites
 [joueur]: ./sprites/sPlayer
-[boulet de cannon]: ./sprites/sBullet
+[boulet de canon]: ./sprites/sBullet
 [eau]: ./sprites/sWater
 [tilesheet]: ./sprites/sWorld
