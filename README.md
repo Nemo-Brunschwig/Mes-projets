@@ -23,6 +23,6 @@
 > Nous somme une équipe de 4 : un designer, un scénariste, un sound designer et un développeur (moi).
 
 ### Warriors' Challenges
-> Un site de défit informatique que je développe avec quelques amis pour nous lancer des défits.
+> Un site de défis informatique que je développe avec quelques amis pour nous lancer des défis.
 > 
 > Je l'utilise également pour expliquer certains principes à des amis qui débutent.
