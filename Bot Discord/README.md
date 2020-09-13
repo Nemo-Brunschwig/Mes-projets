@@ -18,6 +18,12 @@ Le dossier [events] contient tous les comportements que doit avoir le bot en fon
 
 + guildMemberAdd : le bot enverra un message de bienvenue quand un nouveau membre rejoindra le serveur (en cours de développement)
 + messages : le bot lit tous les messages. Si un message correspond à une commande, alors il fait appel à l'une des commandes du dossier [commands]
++ ready : quand j'allume le bot, au moment où il se connect un message s'affiche dans la console, m'indiquant que le bot est bien connecté.
+
+### Les fonctions
+Le dossier [fonctions] continent les fonctions que j'utilise à travers tout mon projets.
++ date : cette fonction me permet de mettre les dates au format que je veux.
 
 [commands]: ./commands
 [events]: ./events
+[fonctions]: ./fonctions
