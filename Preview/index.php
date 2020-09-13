@@ -20,13 +20,6 @@ if(isset($_GET['color'])){
     <meta charset="utf-8">
     <title>DiscordEmbed</title>
     
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@test_author">
-    <meta name="twitter:creator" content="@test_author">
-    <meta name="twitter:title" content="test_title">
-    <meta name="twitter:description" content="test_description">
-    <meta name="twitter:image" content="https://cdn.discordapp.com/emojis/393462246430474241.png">
-    
     <meta name="theme-color" content=<?php if(isset($_GET['color'])) echo "#".$color; ?>>
     <meta property="og:image" content=<?php if(isset($_GET['img'])) echo $img; ?>>
     <meta property="og:image:type" content="image/png">
