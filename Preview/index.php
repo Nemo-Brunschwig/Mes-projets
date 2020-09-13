@@ -81,7 +81,7 @@ if(isset($_GET['color'])){
   <body>
     <div class="container">
         <form action="#" method="POST">
-            <h1>Generat an embed</h1>
+            <h1>Generate an embed</h1>
             <div class="form-group">
                 <label for="title">Title</label>
                 <input type="text" class="form-control" id="title" name="title">
