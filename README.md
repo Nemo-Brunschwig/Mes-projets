@@ -13,7 +13,7 @@
 ### Preview
 > Il s'agit d'un petit site web qui génère un lien avec le contenu que l'on veut dedans.
 > 
-> Il faut copier le lien générer et le coller sur Discord ou l'envoyer à quelqu'un par sms (fonctionnera bientôt sur Twitter).
+> Il faut copier le lien généré et le coller sur Discord ou l'envoyer à quelqu'un par sms (fonctionnera bientôt sur Twitter).
 
 ### Quest of a Warrior
 > C'est un jeu vidéo que je développe avec quelques amis.
