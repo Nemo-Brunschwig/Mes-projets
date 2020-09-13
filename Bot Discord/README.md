@@ -4,5 +4,4 @@
 
 ### Les commandes
 Le dossier [commands] contient toutes les commandes du bot.
-
 [commands](./commands)
