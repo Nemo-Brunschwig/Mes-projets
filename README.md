@@ -20,7 +20,7 @@
 > 
 > Il s'agit d'un petit RPG.
 > 
-> Nous somme une petite équipe de 4 : un designer, un scénariste, un sound designer et un développeur (moi).
+> Nous somme une équipe de 4 : un designer, un scénariste, un sound designer et un développeur (moi).
 
 ### Warriors' Challenges
 > Un site de défit informatique que je développe avec quelques amis pour nous lancer des défits.
