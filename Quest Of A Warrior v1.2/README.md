@@ -1,6 +1,6 @@
 # Quest of a Warrior
-> Petit RPG que je développe avec amis.
-> Le début du jeu : nous sommes un ivrogne qui se fait sortir d'un bar après avoir un peu trop bu. Pendant que nous comatons dans une ruelle, un vieux sage nous ramasse et nous soigne. Quans nous nous rétablissons, le vieux sage nous parle de notre destin et d'une quête que nous devons accomplir. Après ça, il nous entraîne à magner l'épée, puis nous partons à l'aventure !
+> Petit RPG que je développe avec des amis.
+> Le début du jeu : nous sommes un ivrogne qui se fait sortir d'un bar après avoir un peu trop bu. Pendant que nous comatons dans une ruelle, un vieux sage nous ramasse et nous soigne. Quans nous nous rétablissons, le vieux sage nous parle de notre destin et d'une quête que nous devons accomplir. Après ça, il nous entraîne au maniement de l'épée, puis nous partons à l'aventure !
 
 # Les dossiers
 Comme j'utilise le même logiciel que le [Jeu des bâteaux], les dossiers sont exactements les mêmes (objets, sprites, rooms, etc...).
