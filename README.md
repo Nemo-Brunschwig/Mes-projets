@@ -8,9 +8,7 @@ __test__
 ~~test~~
 # test
 ## test
-[Preview]
-{test}
-||test||
---test--
+### test
+#### test
+##### test
 `test`
-^^test^^
