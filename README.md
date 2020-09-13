@@ -1,5 +1,4 @@
-# Mes-projets
-Voici les projets que j'ai pu créé, seul ou en équipe.
+# Mes projets
 
 ### Bot Discord
 > C'est le bot Discord que je développe pour gérer mon serveur Discord.
