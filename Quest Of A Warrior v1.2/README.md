@@ -11,8 +11,8 @@ Il y a :
 + L'[outil] du [joueur] : ![alt_text](https://github.com/Nemo-Brunschwig/Mes-projets/blob/master/Quest%20Of%20A%20Warrior%20v1.2/sprites/sOutil/d3a6fc46-e305-4b29-8a15-1cf97550b9d1.png)
 + Les items :
 
-⋅⋅⋅[Pomme] : ![alt_text](https://github.com/Nemo-Brunschwig/Mes-projets/blob/master/Quest%20Of%20A%20Warrior%20v1.2/sprites/sApple/14e2cc9d-ac7b-413d-a470-47fb8c4ce18f.png)⋅⋅
-⋅⋅⋅[Feuille] : ![alt_text](https://github.com/Nemo-Brunschwig/Mes-projets/blob/master/Quest%20Of%20A%20Warrior%20v1.2/sprites/sFeuilles/5954e79e-1d42-4808-80a8-a0b6faf5b355.png)
+⋅[Pomme] : ![alt_text](https://github.com/Nemo-Brunschwig/Mes-projets/blob/master/Quest%20Of%20A%20Warrior%20v1.2/sprites/sApple/14e2cc9d-ac7b-413d-a470-47fb8c4ce18f.png)⋅⋅
+⋅[Feuille] : ![alt_text](https://github.com/Nemo-Brunschwig/Mes-projets/blob/master/Quest%20Of%20A%20Warrior%20v1.2/sprites/sFeuilles/5954e79e-1d42-4808-80a8-a0b6faf5b355.png)
 
 [Branche] : ![alt_text](https://github.com/Nemo-Brunschwig/Mes-projets/blob/master/Quest%20Of%20A%20Warrior%20v1.2/sprites/sBranche/5698d9c3-1060-48fd-9bd1-0e0e10969e04.png)
 + Des éléments de décore :
