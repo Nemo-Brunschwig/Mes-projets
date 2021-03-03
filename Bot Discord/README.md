@@ -24,6 +24,9 @@ Le dossier [events] contient tous les comportements que doit avoir le bot en fon
 Le dossier [fonctions] contient les fonctions que j'utilise à travers tout mon projet.
 + date : cette fonction me permet de mettre les dates au format que je veux.
 
+(Ceci est une ancienne version, pour avoir la version mise à jour il faut se référer à [ce repos])
+
 [commands]: ./commands
 [events]: ./events
 [fonctions]: ./fonctions
+[ce repos]: https://github.com/Warriors-Army/warriors-bot-v2
